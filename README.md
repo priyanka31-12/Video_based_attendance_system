@@ -9,3 +9,9 @@ From that video extracted  all the frames and stored them in a folder titled tas
 Screenshot for the same :
 
 ![Screenshot (223)](https://user-images.githubusercontent.com/76279662/125521035-b645a86c-2238-4367-ad90-54993604291b.png)
+
+**Sub-Task3 :**
+For each image created three images , containing only red, only green ,and only blue parts of the image respectively. And stored them in a folder namely 
+task1_image_RGB having a sub-folders namely task1_imagename which contains three different files namely image_R, image_G, image_B. 
+
+
