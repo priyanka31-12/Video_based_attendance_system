@@ -16,7 +16,10 @@ task1_image_RGB having a sub-folders namely task1_imagename which contains three
 
 screenshots are as shown :
 
+only blue, only green, only red images:
+
 ![Screenshot (225)](https://user-images.githubusercontent.com/76279662/125522944-70545183-d94c-4771-8d6c-c719f86ed943.png)
+
 
 ![Screenshot (228)](https://user-images.githubusercontent.com/76279662/125523308-839827f7-bc6b-49df-8a1c-f6313a5b7654.png)
 
@@ -26,10 +29,15 @@ screenshots are as shown :
 in this sub task detection of face in each image is done and the detected part is stored in a folder named task1_image_FACE which contains a file
 namely task1_<image_name>_FACE 
 
-screenshots of the same :
+screenshots of the same are shown :
 
+face detection:
 
 ![Screenshot (230)](https://user-images.githubusercontent.com/76279662/125525118-bc246b6e-6275-49f1-bf06-d45623dbba41.png)
+
+files stored:
+
+![Screenshot (235)](https://user-images.githubusercontent.com/76279662/125526777-e7233d84-ae44-4cd7-b9ac-00fcdfc276a2.png)
 
 
 
