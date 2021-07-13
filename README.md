@@ -13,6 +13,7 @@ Screenshot for the same :
 **Sub-Task3 :**
 For each image created three images , containing only red, only green ,and only blue parts of the image respectively and displayed them. And stored them in a folder namely 
 task1_image_RGB having a sub-folders namely task1_imagename which contains three different files namely image_R, image_G, image_B. 
+![Screenshot (225)](https://user-images.githubusercontent.com/76279662/125522635-bee2bd2e-2f74-4269-b1c5-3e7432e09437.png)
 
 
 
