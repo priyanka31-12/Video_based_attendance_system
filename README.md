@@ -29,5 +29,9 @@ namely task1_<image_name>_FACE
 screenshots of the same :
 
 
+![Screenshot (230)](https://user-images.githubusercontent.com/76279662/125525118-bc246b6e-6275-49f1-bf06-d45623dbba41.png)
+
+
+
 
 
