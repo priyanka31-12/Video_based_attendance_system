@@ -22,5 +22,8 @@ screenshots are as shown :
 
 ![Screenshot (226)](https://user-images.githubusercontent.com/76279662/125523452-933390e6-dbf9-4d1e-b053-20c86b090ecc.png)
 
+**Sub-Task4 :**
+in this sub task detection of face in each image is done and the detected part is stored in a folder named task1_image_FACE which contains a file
+namely task1_<image_name>_FACE 
 
 
