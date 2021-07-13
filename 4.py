@@ -27,8 +27,7 @@ cropped = img[x:x+w, y:y+h]
 cv2.imshow("Gray", img)
 
 
-i=0      #if more than one faces are there
-path='E:/Practice/py_beg/ML assignment/task1_image_FACE/task1_img4_FACE/img'+str(i)+'.jpg'
+path='E:/Practice/py_beg/ML assignment/task1_image_FACE/task1_img4_FACE'+'.jpg'
 
 # to store the cropped face only 
 cv2.imwrite(path, cropped)
