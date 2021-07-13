@@ -20,8 +20,11 @@ only blue, only green, only red images:
 
 ![Screenshot (225)](https://user-images.githubusercontent.com/76279662/125522944-70545183-d94c-4771-8d6c-c719f86ed943.png)
 
+folders created:
 
 ![Screenshot (228)](https://user-images.githubusercontent.com/76279662/125523308-839827f7-bc6b-49df-8a1c-f6313a5b7654.png)
+
+files stored:
 
 ![Screenshot (226)](https://user-images.githubusercontent.com/76279662/125523452-933390e6-dbf9-4d1e-b053-20c86b090ecc.png)
 
