@@ -30,7 +30,8 @@ files stored:
 
 **Sub-Task4 :**
 in this sub task detection of face in each image is done and the detected part is stored in a folder named task1_image_FACE which contains a file
-namely task1_<image_name>_FACE 
+namely task1_<image_name>_FACE._
+The rectangular box arround the face has been created using **haarcascade classifier** for face detection.
 
 screenshots of the same are shown :
 
